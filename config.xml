@@ -5,10 +5,10 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "379"
         version   = "1.6.1">
-    <name>Moodle Mobile</name>
+    <name>PAF-KIET LMS-TEST</name>
 
     <description>
-        Moodle Mobile official app
+        PAF-KIET LMS-TEST App
     </description>
 
     <author href="http://moodle.com" email="juan@moodle.com">
