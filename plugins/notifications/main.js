@@ -215,7 +215,7 @@ define(requires, function (notifsTpl, notifTpl, notifsEnableTpl, notifAlert, not
             if (MM.util.wsAvailable('local_mobile_core_message_get_messages')) {
                 $('a[href="#notifications"]').addClass('loading-row');
 
-                var limit = 50;
+                var limit = 250;
 
                 var params = {
                     useridto: MM.config.current_site.userid,
